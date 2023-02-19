@@ -6,6 +6,11 @@ Features:
 - Uses ejs to have variables embedded into html code
 - Created own local node-module to refactor code
 
+How to run application:
+- Download repository
+- Open downloaded repository with a command line interface
+- Run 'nodemon app.js' in terminal
+
 Site overview:
 
 ![alt text](https://github.com/J0K3Rn/todolist-v1/blob/main/screenshots/overview.png?raw=true) 
